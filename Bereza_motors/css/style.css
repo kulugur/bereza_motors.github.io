@@ -138,7 +138,7 @@ img {
 	
 	background-image: url("../img/rectangel_logo.png") ;
   
-  background-size: contain;
+  
   background-repeat: round;
   height: auto;
   width: auto;
@@ -149,6 +149,7 @@ img {
 	padding-left: 5vh;
 }
 .lf--submit{
+	margin-bottom: 2vh;
 	margin-top: 2vh;
 	margin-left: 8.5vh;
 	background-color: #f5d60d;
@@ -170,7 +171,7 @@ img {
 .a_logo{
 	color: #f5c209;
 	font-size: 11px;
-  padding-left: 2vh;
+  padding-left: 7vh;
   padding-right: 2vh;
   
 }
