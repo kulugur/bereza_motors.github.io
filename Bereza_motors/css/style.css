@@ -4,6 +4,7 @@ body{
 	background-size: cover;
 	background-repeat:no-repeat;
 	background-image: url("../img/backgraund.png");
+	
 }
 section{
 	vertical-align: middle;
@@ -122,7 +123,7 @@ img {
   	
 }
 .foter{
-	height: 50px;
+	height: 100vh;
 	
 }
 .login{
@@ -169,7 +170,8 @@ img {
 .a_logo{
 	color: #f5c209;
 	font-size: 11px;
-  padding-left: 3vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
   
 }
 .logo_foter{
