@@ -17,6 +17,7 @@ a {
 img {
   max-width: 100%;
   max-height: 100%;
+
   object-fit: contain; /* Теперь пропорции не нарушаются */
 }	
 .nav_1{
@@ -55,6 +56,8 @@ img {
 	float: right;
 	background-color: #f5d60d;
 	border-radius: 6px;
+	margin-bottom: 0.5%;
+  margin-top: 0.5%;
 	padding: 5px 5% 5px 5px;
 
 }
@@ -63,7 +66,9 @@ img {
 	border-radius: 6px;
 	padding: 1px 10px 1px 10px;
 }
+.img_auto{
 
+}
 .img_icon{
 	padding-right: 4%;
     padding-left: 25%;
@@ -117,8 +122,10 @@ img {
 	margin-left: 2%;
     margin-top: 2%;
 	background-image: url("../img/rectangle.png");
+	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
+	color: gainsboro;
 		
   	
 }
